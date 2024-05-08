@@ -1,5 +1,10 @@
 # AnC-IR-Task from Pratyush Singh 230784
-To upload Images :
+# To View Website :
+1. git clone this repo on vscode.
+2. Use live server extension to run this code.
+
+# To upload Images :
+
 1. Add the image in imgs folder
 2. Replace the src in the img tag with your image
 
